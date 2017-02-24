@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity {
         TextView todaysMoneyView = (TextView) findViewById(R.id.todaysLimit);
         db.loadFromPref(this);
         String limit = db.getTodaysLimit();
-        todaysMoneyView.setText(limit);
+        todaysMoneyView.setText(limit+ " kr");
     }
 
 

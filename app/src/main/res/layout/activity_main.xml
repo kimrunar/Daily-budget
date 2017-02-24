@@ -50,14 +50,6 @@
                     android:layout_alignParentTop="true"
                     android:layout_centerHorizontal="true" />
 
-                <ProgressBar
-                    style="?android:attr/progressBarStyleHorizontal"
-                    android:layout_width="200sp"
-                    android:layout_height="20sp"
-                    android:id="@+id/progressBar3"
-                    android:layout_centerVertical="true"
-                    android:layout_centerHorizontal="true" />
-
         </RelativeLayout>
 
 
