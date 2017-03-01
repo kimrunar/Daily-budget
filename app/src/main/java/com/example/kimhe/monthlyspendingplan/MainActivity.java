@@ -10,6 +10,18 @@ import android.widget.TextView;
 
 /**
  * Created by kimhe on 13.02.2017.
+ *
+ * About:
+ * This application is built for a personal need and therefor maybe not the most user-friendly. However, if its
+ * used in the right way, it's a useful app.
+ * I will explain.
+ *
+ * Every month the 15. i get my scholarship. To prevent use all of it at once, i use this app
+ * to map what i SHOULD use today to spend equal amount each day. I can use more. say i spend 500 kr one day,
+ * this amount is subtracted from the total and a new vallet/daysleft ratio is calculated. If one day, say i use 0, the
+ * new ratio is calculated.
+ * This app is not an budget app, that is not the meaning. Its just a guideline for how much i should spend.
+ *
  */
 
 public class MainActivity extends AppCompatActivity {
